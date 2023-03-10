@@ -1,0 +1,160 @@
+nav ul{
+	list-style-type:none;
+	padding:0;
+    margin-left:550px;
+}
+nav li{
+	display:inline;
+	float:left;
+}
+nav a:link, nav a:visited{
+	background-color:brown;
+	color:white;
+	display:block;
+	width:160px;
+	text-align:center;
+	padding:10px 0;
+}
+nav a:hover{
+	background-color:black;
+}#stanza-1{
+background-color:pink;
+clear:left;
+float:none;
+}
+h2{
+color:Red;
+font-size:40;
+}
+
+#stanza-2{
+background-color:green;
+text-align:center;
+font-size:30px;
+
+}
+body{
+	margin:35px 130px 25px 150px;
+	font-size:20px;
+}
+.Logo{
+	float:left;
+	margin:0px 10px 20px 0px;
+}
+.heading{
+	float:top;
+}
+h1{
+	font-size:70px;
+	position:center;
+	text-align:justify;
+}
+.promo{
+	font-size:30px;
+}
+
+h2{
+	font-size:30px;
+}
+.B{
+	color:#2E8B57;
+	text-decoration:bold;
+}
+.Raju{
+	color:green;
+	clear:right;
+}
+.E{
+      background-color:orange;
+      color:white;
+}
+.F{
+	background-color:purple;
+	color:white;
+}
+.J{
+	background-color:blue;
+	color:white;
+}
+.H{
+	background-color:magenta;
+	color:white;
+}
+
+ol{
+	list-style-image:url("Mini book logo 3.png");
+}
+.Booklogo,{
+	float:left;
+}
+.G,.I,.K,.D{
+	color:green;	
+}
+#Stanza-3{
+	clear:left;
+}
+.Booklogo2{
+	float:left;
+}
+.raj{
+	background-color:orange;
+}
+.Arjun{
+	background-color:pink;
+}
+.Chandan{
+	color:blue;
+}
+#Stanza-5 ul{
+list-style-image: url("Logo 2.png");
+clear:left;
+float:none;	
+}
+
+.Note{
+	background-color:puple;
+}
+.Rules{
+	background-color:orange;
+}
+.Arti{
+background-color:B2FFFF;	
+}
+.Ramesh{
+	background-color:orange;
+	text-align:center;
+	font-size:25px;
+}
+#Stanza-1A ul{
+	list-style-image:url("mini logo 4.png");
+	font-size:25px;
+	clear:left;
+	float:none;
+}
+#Stanza-1B ul{
+	list-style-image:url("mini logo 3.png");
+	font-size:25px;
+}
+.L{
+	color:magenta;
+}
+.puja{
+	background-color:#90EE90;
+}
+.A{
+	color:white;
+	background-color:#800000;
+}
+.M{
+	background-color:#FFEF00;
+}
+.bird{
+	text-align:center;
+	font-size:35px;
+	background-color:tan;
+}
+
+#Stanza-6 ul{
+  list-style-image:url("Mini book logo 2.png");
+  font-size:30px;
+}
